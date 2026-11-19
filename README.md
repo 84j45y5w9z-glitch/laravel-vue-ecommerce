@@ -80,8 +80,4 @@ npm run dev
 - **API Resource**：統一輸出格式，前後端資料結構解耦。
 - **前後端分離 + Sanctum SPA 驗證**：可延伸說明 CSRF/CORS/Stateful Domain 的設定考量。
 
-## 待你自行擴充（面試可以聊的「還可以怎麼做」）
-- 商品圖片上傳（可用 Laravel 內建 Storage + S3）
-- Redis 快取商品列表、佇列處理訂單通知信
-- 前端上傳圖片、商品規格（顏色/尺寸）多選項
-- 測試：Pest/PHPUnit 針對訂單建立、庫存扣減、金流簽章驗證撰寫單元測試
+
